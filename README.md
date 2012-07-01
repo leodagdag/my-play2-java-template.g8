@@ -13,7 +13,7 @@ Make sure [play](https://github.com/playframework/Play20) is installed and on yo
 
 then run
 
-    g8 leodagdag/p2jt.g8
+    g8 leodagdag/my-play2-java-template.g8
     # Answer questions
     cd application_name
     play
