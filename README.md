@@ -1,0 +1,19 @@
+A [giter8](https://github.com/n8han/giter8) template for Play 2 Java application
+
+Including 
++ Twitter Bootstrap
++ JQuery 1.7.2
+  
+
+## Usage
+
+Install [giter8](https://github.com/n8han/giter8)
+
+Make sure [play](https://github.com/playframework/Play20) is installed and on your path
+
+then run
+
+    g8 leodagdag/p2jt.g8
+    # Answer questions
+    cd application_name
+    play
